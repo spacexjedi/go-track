@@ -28,5 +28,11 @@ func main() {
 //	fmt.Println("are")
 //	fmt.Println("you")
 
+
+// func fatorial
+var num int8
+num = 5 // put the number to test
+var r int8 = fatorial(num)
+fmt.Printf(" Fatorial of %d is %d ", num, r)
 }
 
