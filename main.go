@@ -34,5 +34,7 @@ var num int8
 num = 5 // put the number to test
 var r int8 = fatorial(num)
 fmt.Printf(" Fatorial of %d is %d ", num, r)
+fmt.Println("\n")
+hexa()
 }
 
